@@ -1,0 +1,3 @@
+# code-along
+
+this is what we did during the code along...
